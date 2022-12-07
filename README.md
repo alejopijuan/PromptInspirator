@@ -8,3 +8,5 @@ We leverage a BERT base model for relevant descriptors prediction, Stable Diffus
 
 [![PromptInspirator DEMO video December 2022](https://i9.ytimg.com/vi/w-ybC9Jrtq0/mq2.jpg?sqp=CMitwJwG&rs=AOn4CLArP-QzM_tlwrY2BEtQnkZNkY6cgw)](https://www.youtube.com/watch?v=w-ybC9Jrtq0 "PromptInspirator DEMO video December 2022")
 
+
+[![Access the Notebook](https://colab.research.google.com/drive/1ZoJfgBdmZMIfOxDElOFCDTE6CX11Kx3U?usp=sharing)]
